@@ -12,7 +12,7 @@
         'views/account_move_views.xml',
     ],
     'images': [
-        'static/description/banner.png',
+        'static/description/images.png',
     ],
     'installable': True,
     'application': False,

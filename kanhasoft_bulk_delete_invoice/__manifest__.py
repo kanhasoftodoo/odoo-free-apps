@@ -1,5 +1,5 @@
 {
-    'name': 'Kanhasoft Bulk Invoice Delete',
+    'name': 'Bulk Invoice Delete',
     'version': '19.0.1.0.0',
     'summary': 'Bulk force delete invoices from tree view',
     'author': 'Kanhasoft',
@@ -12,7 +12,7 @@
         'views/account_move_views.xml',
     ],
     'images': [
-        'static/description/banner.png',
+        'static/description/images.png',
     ],
     'installable': True,
     'application': False,

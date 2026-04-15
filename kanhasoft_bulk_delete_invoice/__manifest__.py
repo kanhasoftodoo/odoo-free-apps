@@ -11,7 +11,7 @@
         'views/account_move_views.xml',
     ],
     'images': [
-        'static/description/banner.png',
+        'static/description/images.png',
     ],
     'license': 'OPL-1',
     'installable': True,
